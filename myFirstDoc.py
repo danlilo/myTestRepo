@@ -1,4 +1,4 @@
-def myFirstFunction();
+def myFirstFunction():
     return "Heyup Chuck"
 
 

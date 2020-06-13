@@ -1,6 +1,6 @@
 def myFirstFunction();
-    print("Heyup")
+    return "Heyup Chuck"
 
 
-def mySecondFunction():
-    print("Chuck")
+
+print(myFirstFunction())

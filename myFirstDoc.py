@@ -1,0 +1,2 @@
+def myFirstFunction();
+    print("Heyup")
